@@ -1,0 +1,37 @@
+
+body{
+    background-color: aqua;
+}
+li {
+    list-style: none;
+    min-width: 200px;
+    background-color: black;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+div h1{
+    color: black;
+}
+div ul li h1{
+    color: white;
+}
+
+#submit{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+ul {
+    padding: 0;
+}
+
+.listButton {
+    background-color: rgb(9, 9, 8);
+    padding: 5px 10px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+}
